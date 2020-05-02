@@ -53,21 +53,21 @@ Publications
 
 Bagheri-Jebelli, N. Kennedy, W.G., “Social Network Analysis of Gobekli Tepe: Belief Propagation in 10th
 Millennium BC”, International Conference on Social Computing, Behavioral-Cultural Modeling, and
-Prediction and Behavior Representation in Modeling and Simulation, Washington, D.C., USA, 2020. Submitted.
+Prediction and Behavior Representation in Modeling and Simulation, Washington, D.C., USA, 2020.
 
 Bagheri-Jebelli, N., Crooks, A.T. and Kennedy, W.G., “Capturing the Effects of Gentrification on
 Property Values: An Agent-Based Modeling Approach”, The Computational Social Science Society of
-Americas Conference, Santa Fe, NM, USA, 2019. Published.
+Americas Conference, Santa Fe, NM, USA, 2019.
 
 Tulk, S., Bagheri Jebelli, N., Kennedy, W. G., “Modeling the Impact of Fake News on Citizens”.
 Proceedings of the 16th Annual Meeting of the International Conference on Cognitive Modelling (pp. 187-
-192), Madison, USA: University of Wisconsin, 2018. Published.
+192), Madison, USA: University of Wisconsin, 2018.
 
 * Abstracts
 
 Bagheri Jebelli, N., Cioffi-Revilla, C., “A Computational Approach to Initial Social Complexity: Gobekli
 Tepe and Neolithic Polities in Urfa Region, Upper Mesopotamia, Tenth Millennium BC”, Society for
-American Archaeology, Washington DC, April, 2018. Accepted.  
+American Archaeology, Washington DC, April, 2018.
 
 
 Talks

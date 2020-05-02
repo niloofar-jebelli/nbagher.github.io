@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Contact me"
 permalink: /contact/
 author_profile: true
 redirect_from:
@@ -9,8 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-
-Contact
-======
 
 Please contact me for a complete CV.

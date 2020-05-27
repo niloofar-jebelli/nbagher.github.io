@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Capturing the Effects of Gentrification on Property Values: An Agent-Based Modeling Approach"
+excerpt: "Short description of portfolio item number 1<br/><img src='Model-graphical-user-interface-at-default-settings.pbm'>"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Cities are ever changing and growing phenomenon with many underlying complexities. Through its life cycle, a city experiences various forms of dynamics. Models allow for a better understanding of such complexities and dynamics. The model developed in this thesis intends to simulate the dynamics of certain processes such as: an urban market, agent interactions in that market, urban growth, sprawl and shrinkage and gentrification. The purpose of this model is to understand the behavioral pattern of the agents and demonstrate the life cycle of a city based on individual agents’ actions. This model is significant in its integration of various subsystems creating a larger system while observing developers’ behavior. Specifically, the model explores some well-known issues, including the Smith’s rent-gap theory, Burgess’s concentric zones model of urban growth, and Alonso’s bid rent theory. The main results from the model show that the agents move to and reside in properties within their income range, with similar neighbors. This is one of the first models that provides a new lens to explore urban development.

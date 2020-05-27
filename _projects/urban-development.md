@@ -1,5 +1,5 @@
 ---
-title: "Capturing the Effects of Gentrification on Property Values: An Agent-Based Modeling Approach"
+title: "Urban Development Through the Lens of Agent-based Modeling"
 excerpt: "Capturing the Effects of Gentrification on Property Values: An Agent-Based Modeling Approach<br/><img src='images/Model-graphical-user-interface-at-default-settings.png'>"
 collection: projects
 ---

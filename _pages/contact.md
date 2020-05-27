@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-Please contact me for a complete CV.
+Feel free to reach out to: nbagher2[at]masonlive[dot]gmu[dot]edu

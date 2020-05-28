@@ -1,7 +1,7 @@
 ---
 title: 'Downloading Knowledge'
 date: 2020-05-20
-permalink: /posts/2020/05/fist-post/
+permalink: /posts/2020/05/first-post/
 tags:
   - Agent-based Modeling
   - Social Network Analysis

@@ -17,47 +17,51 @@ Please contact me for a complete CV.
 
 Education
 ======
-* PhD. in Computational Social Science at Computational and Data Sciences Department, George Mason University, 2021
-* M.A. in Computational Social Science at Computational and Data Sciences Department, George Mason University, 2017
+* PhD. in Computational Social Science at Computational and Data Sciences Department, George Mason University, 2024
+* M.A. in Computational Social Science at Interdisciplinary Studies Department, George Mason University, 2017
 * B.A in Cultural Anthropology at Anthropology Department, University of Maryland, College Pak, 2013
+  * Minor in Middle Eastern Studies
 
 Research experience
 ======
-* 2018 - Present: Dissertation Research Project
-  * “Social Complexity in Gobekli Tepe and Neolithic Polities in Urfa Region, Tenth Millennium BC”
-  * Committee: Dr. William G. Kennedy (advisor), Dr. Andrew Crooks (advisor), Dr. Robert Axtell, Dr. Daniel Rogers
-  * Developing an Agent-based Model of information diffusion and the growth of cultivation at Gobekli Tepe and conducted a social network analysis on the model to detect the network structure and the emergence of leadership.
+* 2018 - 2024: Dissertation Research Project, George Mason University, Fairfax, VA
+Department of Computational and Data Science
+  * Project: “Computational Modeling of the Social Complexity in Göbekli Tepe and Earliest Neolithic Communities”
+  * Committee: Dr. Robert Axtell, Dr. William G. Kennedy, Dr. Andrew Crooks, Dr. Hamdi Kavak, Dr. Daniel Rogers
+  * Developed an agent-based model of Göbekli Tepe and earliest Neolithic communities and conducted various social network analyses to examine patterns of hunting vs. gathering, building trust and cooperation, belief propagation, and development of universal narratives.
 
-
-* 2016 - 2017: Master’s Research Project
-  * “Urban Development through the Lens of Agent-based Modeling”
-  * Committee: Dr. Andrew Crooks (advisor), Dr. William G. Kennedy, Dr. Qing Tian
+* 2016 - 2017: Master’s Research Project, George Mason University, Fairfax, VA
+Department of Computational and Data Science
+  * Project: “Urban Development through the Lens of Agent-based Modeling”
+  * Committee: Dr. Andrew Crooks, Dr. William G. Kennedy, Dr. Qing Tian
   * Developed an Agent-based Model of an urban environment and the interaction of gentrification, urban growth, urban sprawl, and urban shrinkage.
   
 
-* 2012: Research Assistant
-  * Persian Proficiency Test
-  * Principal Investigator: Dr. Ali Abasi, Center for Advanced Study of Language, University of Maryland College Park
-  * Recorded Persian listening and comprehension exam,
-  * Provided support on material assessment,
-  * Edited and archived the pilot material.
+* 2012: Research Assistant, University of Maryland, College Park, MD
+Center for Advanced Study of Language
+  * Project: Persian Proficiency Test
+  * Principal Investigator: Dr. Ali Abasi
+  * Recorded and assessed Persian listening and comprehension exam, edited, and archived pilot material. 
 
-* 2011: Research Assistant
-  * “Anthropology by the Wire”
-  * Principal Investigators: Dr. Matthew Durington and Dr. Samuel G. Collins, Towson University
+* 2011: Research Assistant, Towson University, Towson, MD
   * National Science Foundation
-  * Published research material with a focus on social issues in west Baltimore,
-  * Managed social media accounts of the project for public education,
-  * Gathered and archived ethnographical research documents in the university system.
+  * Project: “Anthropology by the Wire”
+  * Principal Investigators: Dr. Matthew Durington and Dr. Samuel G. Collins
+  * Published research on social issues in West Baltimore, managed social media accounts of the project for public education, gathered and archived ethnographical research documents in the university system.
 
 
 Skills
 ======
 * Software and Programming Languages:
-  * Advanced: NetLogo, Gephi
-  * Intermediate: Python, R, MATLAB, ACT-R, LISP, ArcGIS, QGIS, Google Analytics
-* Languages: Persian (Native), English (fluent), Arabic (intermediate), Hebrew (Beginner)
-* Strong knowledge of writing proposals ranging from grants to policy proposals
+  * Advanced: Python, R, SQL, NetLogo, Gephi, Microsoft Office Suite
+  * Intermediate: MATLAB, ACT-R, LISP, ArcGIS, QGIS, Google Analytics
+Languages: 
+  * Persian (Native), English (fluent), Arabic (intermediate), Hebrew (Beginner)
+
+Other:
+  * Strong knowledge of writing proposals ranging from grants to policy proposals,
+  * Experience with machine learning, social network analysis, and statistical inference techniques.
+
 
 Publications
 ======
@@ -102,7 +106,7 @@ Proposals
 
 Service and leadership
 ======
-* 2019 - Present Computational and Data Sciences Department Representative, GMU Graduate Assembly
+* 2019 - 2021 Computational and Data Sciences Department Representative, GMU Graduate Assembly
 * 2012 - 2013 Student Government Representative, UMCP Provost Advisory Council
 * 2012 - 2013 Student Government Representative, UMCP Dean’s Student Advisory Council
 * 2012 - 2013 Behavioral and Social Sciences College Representative, UMCP Student Government Association

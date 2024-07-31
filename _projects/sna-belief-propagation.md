@@ -1,0 +1,12 @@
+---
+title: "Social Network Analysis of Gobekli Tepe: Belief Propagation in 10th Millennium BC"
+excerpt: "Social Network Analysis of Gobekli Tepe: Belief Propagation in 10th Millennium BC<br/><img src='pop-40-80.png'>"
+collection: projects
+---
+
+Related publication: Bagheri-Jebelli, N., Kennedy, W.G., “Social Network Analysis of Gobekli Tepe: Belief Propagation in 10th Millennium BC”, International Conference on Social Computing, Behavioral-Cultural Modeling, and Prediction and Behavior Representation in Modeling and Simulation, Washington, D.C., USA, 2020.
+
+Goal: For years, we believed that the transition of human communities from simple hunter-gatherer societies to complex sedentary societies occurred due to the expansion of cultivation and the rise of agriculture. Gobekli Tepe, a pre-pottery Neolithic site in Turkey, presents a new explanation that can shed light on the human development to civilization. This archaeological site was constructed through the collaboration of various hunter-gatherer societies as a communal space for ritualistic purposes. Studies show a similarity in architecture, tools, crops and symbolism of some of Gobekli Tepe's neighboring cultures. The commonalities suggest the existence of a shared belief before the construction of the site. Utilizing agent-based modeling and social network analysis tools, this paper investigates the belief propagation to observe the emergence of leaders among the population and examines the network structure of the communities constructing Gobekli Tepe. Most importantly, this site represents a complex adaptive system where the interactions of its components may have caused the emergence of a belief institution.
+
+
+Conclusion: Utilizing social network analysis and agent-based modeling as our methods, we simulated the case of belief propagation that possibly lead to the construction of Gobekli Tepe. The analysis showed that population increase, decreases the propagation of belief in the network. Leaders emerge from the networks. The length of the life-span of a belief is correlated with the dominant belief of the top five leaders. High clustering coefficient and low average shortest path length confirm that the network has a small-world structure. The histograms and log-log plots of node degrees follow a power-law distribution.
